@@ -1,0 +1,15 @@
+/* CSS styling in order to change background colors, font type and size, and margin/width spacing.
+*/
+body{
+    background-color:blanchedalmond;
+    color:brown;
+    
+    font-size: 19px;
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 1.6em;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+}
